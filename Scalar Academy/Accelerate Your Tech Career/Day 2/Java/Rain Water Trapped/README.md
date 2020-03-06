@@ -20,4 +20,10 @@ Output 1:
     6
 Explaination 1:
 ```
+![Image description](http://i.imgur.com/0qkUFco.png)
+
+
+```
+In this case, 6 units of rain water (blue section) are being trapped.
+```
 
