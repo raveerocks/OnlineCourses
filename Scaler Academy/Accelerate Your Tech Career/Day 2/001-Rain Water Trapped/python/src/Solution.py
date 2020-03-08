@@ -11,7 +11,7 @@ class Solution:
 
         current_bar = 0
         current_left_height = 0
-        # Scanning through the array to find the maxLeftHeight for each gap
+        # Scanning through the list to find the maxLeftHeight for each gap
         while current_bar < n:
             max_left_height[current_bar] = current_left_height
             if current_left_height < A[current_bar]:
@@ -20,7 +20,7 @@ class Solution:
 
         current_bar = n - 1
         current_right_height = 0
-        # Scanning through the array to find the maxRightHeight for each gap
+        # Scanning through the list to find the maxRightHeight for each gap
         while current_bar >= 0:
             max_right_height[current_bar] = current_right_height
             if current_right_height < A[current_bar]:
