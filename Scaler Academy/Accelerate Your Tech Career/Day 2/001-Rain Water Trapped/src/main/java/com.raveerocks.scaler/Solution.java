@@ -1,14 +1,21 @@
 package com.raveerocks.scaler;
 
+
 public class Solution {
     // DO NOT MODIFY THE ARGUMENTS WITH "final" PREFIX. IT IS READ ONLY
+
+    /**
+     *
+     * @param A  : Represents the elevation map
+     * @return : The total water it is able to trap after raining..
+     */
     public int trap(final int[] A) {
 
         int n = A.length;
         int maxLeftHeight[] = new int [n];
         int maxRightHeight[] = new int [n];
         int currentLeftHeight,currentRightHeight;
-        int totalWaterAccumulated=0;
+        int totalWaterTrapped=0;
 
         // Scanning through the array to find the maxLeftHeight for each gap
         currentLeftHeight=0;
@@ -27,9 +34,11 @@ public class Solution {
                 currentRightHeight=A[i];
             }
         }
+
+        // Calculating the total water trapped within the gaps
         for(int i=0;i<n;i++){
-            totalWaterAccumulated += Math.max(0,Math.min(maxLeftHeight[i],maxRightHeight[i])-A[i]);
+            totalWaterTrapped += Math.max(0,Math.min(maxLeftHeight[i],maxRightHeight[i])-A[i]);
         }
-        return totalWaterAccumulated;
+        return totalWaterTrapped;
     }
 }
