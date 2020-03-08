@@ -1,5 +1,4 @@
-package com.raveerocks.scaler;
-
+package src;
 
 public class Solution {
 
