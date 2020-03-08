@@ -5,7 +5,7 @@ public class Solution {
     /**
      *
      * @param A  : Represents the elevation map
-     * @return : The total water it is able to trap after raining..
+     * @return : The total water it is able to trap after raining.
      */
     public int trap(final int[] A) {
 
@@ -24,7 +24,7 @@ public class Solution {
             }
         }
 
-        // Scanning through the array to find the maxLeftHeight for each gap
+        // Scanning through the array to find the maxRightHeight for each gap
         currentRightHeight=0;
         for(int i=n-1;i>=0;i--){
             maxRightHeight[i]= currentRightHeight;
