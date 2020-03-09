@@ -44,5 +44,5 @@ Maximum difference is (10 - 5) = 5.
 
 ### <i class="fab fa-gitlab fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>ERDFTGHJ
 
-### kjhgfdsfghjk
+### GitLab Purple Heading
 {: .gitlab-purple}
