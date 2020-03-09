@@ -14,6 +14,7 @@ public class Solution {
         int min = A[0];
         int max = A[0];
 
+        // Scanning through the array to find the minimum and maximum element
         for (int i = 0; i < n; i++) {
             min = Math.min(min, A[i]);
             max = Math.max(max, A[i]);
@@ -21,11 +22,14 @@ public class Solution {
 
         Bucket[] buckets = new Bucket[n + 1];
 
+        // Initializing the buckets
         for (int i = 0; i < buckets.length; i++) {
             buckets[i] = new Bucket();
         }
 
         double range = (double) n / (max - min);
+
+        // Mapping each element to its respective bucket and updating min and max
         for (int i = 0; i < n; i++) {
             int index = (int) ((A[i] - min) * range);
 
