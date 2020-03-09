@@ -43,13 +43,6 @@ Maximum difference is (10 - 5) = 5.
 
 
 ### <i class="fab fa-gitlab fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>ERDFTGHJ
-{: #tanuki-purple}
 
-
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-- piouyfgdsafghj
-```
+### kjhgfdsfghjk
+{: .gitlab-purple}
