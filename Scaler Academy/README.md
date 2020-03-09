@@ -1,2 +1,2 @@
 # courses
-Programs implemented as a part of ***Accelerate Your Tech Career*** course
+Programs implemented as a part of various courses at ***Scalar Academy***
