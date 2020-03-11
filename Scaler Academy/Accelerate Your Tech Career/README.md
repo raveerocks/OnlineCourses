@@ -122,21 +122,13 @@ Programs implemented as a part of ***Accelerate Your Tech Career*** course
   1.  Factorial Array
   
   </td>
-<td align="center">
+<td align="left">
   
-2	Prime Sum	
-   Code
-150	Not Attempted	Solve Previous Submissions
-4	Sorted Permutation Rank	
-   Code
-250	Not Attempted	Solve Previous Submissions
-5	Sorted Permutation Rank with Repeats	
-   Code
-500	Not Attempted	Solve Previous Submissions
-3	Lucky Numbers	
-   Code
-200	Not Attempted	Solve Previous Submissions
-
+  1.  Find nth Magic Number
+  1.  Prime Sum
+  1.  Lucky Numbers
+  1.  Sorted Permutation Rank
+  1.  Sorted Permutation Rank with Repeats
 
 </td>
 </tr>
