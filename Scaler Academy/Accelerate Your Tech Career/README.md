@@ -89,8 +89,25 @@ Programs implemented as a part of ***Accelerate Your Tech Career*** course
 <tr>
 <td align="center">Day 9-10</td>
 <td align="center">Maths - I</td>
-<td align="center">None</td>
-<td align="center">None</td>
+<td align="left">
+  
+  1.  Greatest Common Divisor
+  1.  Divisor game
+  1.  Pubg
+  1.  Delete one
+  1.  Delete Elements
+  
+  
+  </td>
+<td align="left">
+
+1.  Number of Digit One
+1.  Trailing Zeros in Factorial
+1.  Consecutive Number Sum
+1.  A, B and Modulo
+1.  Enumerating GCD
+
+</td>
 </tr>
 
 
