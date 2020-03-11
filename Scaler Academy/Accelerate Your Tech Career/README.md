@@ -42,6 +42,7 @@ Programs implemented as a part of ***Accelerate Your Tech Career*** course
 <td align="center">High Level Design Basics</td>
 <td align="center">None</td>
 <td align="left">
+  
   1.  Design tiny URL
   </td>
 </tr>
