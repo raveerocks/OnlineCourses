@@ -1,4 +1,4 @@
-# courses
+# Index
 Programs implemented as a part of ***Accelerate Your Tech Career*** course
 
 <table border="2" align="center">
