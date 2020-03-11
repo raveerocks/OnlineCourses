@@ -114,8 +114,31 @@ Programs implemented as a part of ***Accelerate Your Tech Career*** course
 <tr>
 <td align="center">Day 11-12</td>
 <td align="center">Maths - II</td>
-<td align="center">None</td>
-<td align="center">None</td>
+<td align="left">
+  
+  1.  Odd Fibonacci
+  1.  Range Sum
+  1.  Count of divisors for multiple queries
+  1.  Factorial Array
+  
+  </td>
+<td align="center">
+  
+2	Prime Sum	
+   Code
+150	Not Attempted	Solve Previous Submissions
+4	Sorted Permutation Rank	
+   Code
+250	Not Attempted	Solve Previous Submissions
+5	Sorted Permutation Rank with Repeats	
+   Code
+500	Not Attempted	Solve Previous Submissions
+3	Lucky Numbers	
+   Code
+200	Not Attempted	Solve Previous Submissions
+
+
+</td>
 </tr>
 
 
