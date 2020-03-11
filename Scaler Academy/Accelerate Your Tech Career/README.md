@@ -5,7 +5,7 @@ Programs implemented as a part of ***Accelerate Your Tech Career*** course
   
 <tr>
 <th width=300>Day</th>
-<th width=300>Topic</th>
+<th width=400>Topic</th>
 <th width=500>Assingment Problems</th>
  <th width=500>Homework Problems</th>
 </tr>
