@@ -67,7 +67,14 @@ Programs implemented as a part of ***Accelerate Your Tech Career*** course
 <tr>
 <td align="center">Day 7-8</td>
 <td align="center">Arrays</td>
-<td align="center">None</td>
+<td align="left">
+  
+  1.  Sum of all Submatrices
+  1.  Merge Intervals
+  1.  Flip
+  1.  Special Subsequences "AG"
+  1.  First Missing Integer	 
+  </td>
 <td align="center">None</td>
 </tr>
 
