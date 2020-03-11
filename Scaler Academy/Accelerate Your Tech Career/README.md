@@ -75,7 +75,14 @@ Programs implemented as a part of ***Accelerate Your Tech Career*** course
   1.  Special Subsequences "AG"
   1.  First Missing Integer	 
   </td>
-<td align="center">None</td>
+<td align="left">
+  
+  1.  Merge Overlapping Intervals
+  1.  Minimum swaps required to bring all elements less than or equal to k together
+  1.  Minimum number of jumps to reach end
+  1.  Add One To Number
+  1.  Rotate Matrix
+</td>
 </tr>
 
 
